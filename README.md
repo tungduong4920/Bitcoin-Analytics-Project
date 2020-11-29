@@ -12,11 +12,11 @@ This project...
 	
 ## Technologies and Installation
 Project is created with:
-* Python version: 
-* Pandas version: 
-* Numpy version: 
-* Seaborn version:
-* Pingouin installation: ```pip install pingouin```
+* Python version: 3.7
+* Pandas version: 1.1.4
+* Numpy version: 1.19.4
+* Seaborn version: 0.11.00
+* Pingouin installation: ```pip install pingouin``` version 0.3.8
 
 ## Deepnote File
 
