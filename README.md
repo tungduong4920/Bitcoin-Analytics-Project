@@ -21,7 +21,7 @@ Project is created with:
 ## Deepnote File
 
 Here attached is the link to where the code can be ran:
-[MA346 Final Project Deepnote Code](https://deepnote.com/project/a3c883d1-4564-4699-ac21-46aca65b8889#%2Fnotebook.ipynb "Deepnote Coding File")
+[MA346 Final Project Deepnote Code](https://deepnote.com/project/a3c883d1-4564-4699-ac21-46aca65b8889 "Deepnote Coding File")
 
 ## Project Report
 
