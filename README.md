@@ -27,7 +27,7 @@ Here attached is the link to where the code can be ran:
 ## Project Report
 
 Here attached is the link to the where the report of the project can be found:
-[MA346 Final Project Report](Bitcoin-Analytics-Report.docx "Bitcoin Analytics Report")
+[MA346 Final Project Report](https://github.com/tungduong4920/Bitcoin-Analytics-Project/blob/main/Bitcoin%20Analytics%20Report.docx "Bitcoin Analytics Report")
 
 ## Project Dashboard
 
