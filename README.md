@@ -32,5 +32,5 @@ Here attached is the link to the where the report of the project can be found:
 ## Project Dashboard
 
 Here attached is the link to where you can view the Bitcoin Market Cap 2017 dashboard from our project:
-[MA346 Final Project Dashboard](https://frozen-savannah-20356.herokuapp.com "Project Dashboard")
+[MA346 Final Project Dashboard](https://frozen-savannah-20356.herokuapp.com "Bitcoin Market Cap 2017 Dashboard")
 
