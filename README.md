@@ -31,5 +31,5 @@ Here attached is the link to the where the report of the project can be found:
 ## Project Dashboard
 
 Here attached is the link to where you can view the summary dashboard of our data:
-[MA346 Final Project Dashboard](https://www.google.com "Project Dashboard")
+[MA346 Final Project Dashboard](https://frozen-savannah-20356.herokuapp.com "Project Dashboard")
 
