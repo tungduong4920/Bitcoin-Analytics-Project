@@ -8,7 +8,8 @@
 * [Project Dashboard](#project-dashboard)
 
 ## Quick Summary
-This project...
+In this project, we are attempting to look at a few different bitcoin metrics to help us uncover any
+correlations that may exist. We will also investigate hypotheses that are widely accepted by bitcoiners at the moment.
 	
 ## Technologies and Installation
 Project is created with:
